@@ -1,0 +1,12 @@
+# Core Libraries
+numpy>=2.0
+dspy-ai
+# Deep Learning for NCA
+torch
+torchvision
+# USD Bindings (if not building from source)
+usd-exchange
+# LLM API Client (example for OpenAI)
+openai
+# Optional: For JSON schema validation
+jsonschema
